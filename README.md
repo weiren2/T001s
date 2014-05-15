@@ -4,7 +4,7 @@ CS 125 honor project.
 
 A Tiny but Useful Tool on Android.
 
-Developed by: Wei Ren, Qihao Shao, Junfei Zhang. (weiren2, qshao5, jzhng125)  
+Developed by: [Wei Ren](https://github.com/victor-ren), [Qihao Shao](https://github.com/QihaoShao), [Junfei Zhang](https://github.com/harvey940906). (weiren2, qshao5, jzhng125)  
 
 Thanks to: Thomas Reese, Github, StackOverFlow and many other online sources. 
 
