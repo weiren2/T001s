@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item android:id="@+id/graph"
+		android:title="Graph" />
+    <item android:id="@+id/calc"
+		android:title="Graph w/ Buttons" />
+    <item android:id="@+id/about"
+		android:title="About" />
+	<item android:id="@+id/help"
+		android:title="Help" />
+	<item android:id="@+id/exit"
+		android:title="Exit" />
+    
+</menu>
