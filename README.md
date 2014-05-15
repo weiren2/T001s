@@ -8,6 +8,7 @@ Developed by: [Wei Ren](https://github.com/victor-ren), [Qihao Shao](https://git
 
 Thanks to: Thomas Reese, Github, StackOverFlow and many other online sources. 
 
+If you have any advice, questions or bugs to report, feel free to email us or just post it on the issues page.
 Introduction
 ---
 Have you ever been wondering how to let the android device to speak out the current time？  
