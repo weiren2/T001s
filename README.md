@@ -65,3 +65,10 @@ Implementation:
 
 ### Screenshots:
 
+##### Main Screen/AudioTimer 
+![Main Screen](https://github.com/victor-ren/T001s/raw/master/01.png)  
+##### Calculator
+![Calculator](https://github.com/victor-ren/T001s/raw/master/02.png)
+![Calculator](https://github.com/victor-ren/T001s/raw/master/03.png)
+##### Graphing Calculator  
+![Graphing Calculator](https://github.com/victor-ren/T001s/raw/master/04.png) 
