@@ -16,7 +16,7 @@ Have you ever thought of having a easier and cleaner calculator?
 Have you ever considered an graphing calulator on Android device?  
 Don't worry, T001s can help you!  
 
-Fuction
+Function
 ---
 This Android application T001s is an integration of three small applications. They are AudioTimer, Calculator and Graphing Calculator respectively.  
 You can easliy switch between these three tools in the main screen/activity of the app.
